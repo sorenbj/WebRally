@@ -1,0 +1,58 @@
+﻿body {
+    border:solid;
+    border-color:blue;
+    border-width:2px;
+    width:800px;
+    margin-right:auto;
+    margin-left:auto;
+}
+
+#header {
+    border:solid;
+    border-color:blue;
+    border-width:2px;
+}
+
+#headercontent {
+    background-color:aliceblue;
+    position:relative;
+    width:100%;
+}
+
+#LabelHeader {
+    font-size:50px;
+}
+
+#logo {
+    position:absolute;
+    top:0;
+    padding:15px;
+}
+
+#maincontent {
+    border:solid;
+    border-color:blue;
+    border-width:2px;
+    background-color:aqua;
+}
+
+#mainwrapper {
+    text-align:center;
+}
+
+#mainpicture {
+    display:inline-block;
+    vertical-align:middle;
+    padding:15px;
+}
+
+#maintext {
+    display:inline-block;
+    vertical-align:middle;
+    padding:15px;
+}
+
+
+#toptext {
+    text-align:center;
+}

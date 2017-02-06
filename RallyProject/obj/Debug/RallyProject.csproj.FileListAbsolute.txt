@@ -1,0 +1,60 @@
+C:\Users\tor\Documents\Visual Studio 2015\CMS2016f\RallyProject\RallyProject\bin\roslyn\csc.exe
+C:\Users\tor\Documents\Visual Studio 2015\CMS2016f\RallyProject\RallyProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\tor\Documents\Visual Studio 2015\CMS2016f\RallyProject\RallyProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\tor\Documents\Visual Studio 2015\CMS2016f\RallyProject\RallyProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\tor\Documents\Visual Studio 2015\CMS2016f\RallyProject\RallyProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\tor\Documents\Visual Studio 2015\CMS2016f\RallyProject\RallyProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\tor\Documents\Visual Studio 2015\CMS2016f\RallyProject\RallyProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\tor\Documents\Visual Studio 2015\CMS2016f\RallyProject\RallyProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\tor\Documents\Visual Studio 2015\CMS2016f\RallyProject\RallyProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\tor\Documents\Visual Studio 2015\CMS2016f\RallyProject\RallyProject\bin\roslyn\vbc.exe
+C:\Users\tor\Documents\Visual Studio 2015\CMS2016f\RallyProject\RallyProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\tor\Documents\Visual Studio 2015\CMS2016f\RallyProject\RallyProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\tor\Documents\Visual Studio 2015\CMS2016f\RallyProject\RallyProject\bin\RallyProject.dll.config
+C:\Users\tor\Documents\Visual Studio 2015\CMS2016f\RallyProject\RallyProject\bin\RallyProject.dll
+C:\Users\tor\Documents\Visual Studio 2015\CMS2016f\RallyProject\RallyProject\bin\RallyProject.pdb
+C:\Users\tor\Documents\Visual Studio 2015\CMS2016f\RallyProject\RallyProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\tor\Documents\Visual Studio 2015\CMS2016f\RallyProject\RallyProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\tor\Documents\Visual Studio 2015\CMS2016f\RallyProject\RallyProject\obj\Debug\RallyProject.csprojResolveAssemblyReference.cache
+C:\Users\tor\Documents\Visual Studio 2015\CMS2016f\RallyProject\RallyProject\obj\Debug\RallyProject.dll
+C:\Users\tor\Documents\Visual Studio 2015\CMS2016f\RallyProject\RallyProject\obj\Debug\RallyProject.pdb
+C:\Users\Sorenbj\OneDrive\WEBSTUD2\CMS\Rally290316\Rally290316\RallyProject\RallyProject\bin\roslyn\csc.exe
+C:\Users\Sorenbj\OneDrive\WEBSTUD2\CMS\Rally290316\Rally290316\RallyProject\RallyProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sorenbj\OneDrive\WEBSTUD2\CMS\Rally290316\Rally290316\RallyProject\RallyProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sorenbj\OneDrive\WEBSTUD2\CMS\Rally290316\Rally290316\RallyProject\RallyProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sorenbj\OneDrive\WEBSTUD2\CMS\Rally290316\Rally290316\RallyProject\RallyProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sorenbj\OneDrive\WEBSTUD2\CMS\Rally290316\Rally290316\RallyProject\RallyProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sorenbj\OneDrive\WEBSTUD2\CMS\Rally290316\Rally290316\RallyProject\RallyProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sorenbj\OneDrive\WEBSTUD2\CMS\Rally290316\Rally290316\RallyProject\RallyProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Sorenbj\OneDrive\WEBSTUD2\CMS\Rally290316\Rally290316\RallyProject\RallyProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sorenbj\OneDrive\WEBSTUD2\CMS\Rally290316\Rally290316\RallyProject\RallyProject\bin\roslyn\vbc.exe
+C:\Users\Sorenbj\OneDrive\WEBSTUD2\CMS\Rally290316\Rally290316\RallyProject\RallyProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\Sorenbj\OneDrive\WEBSTUD2\CMS\Rally290316\Rally290316\RallyProject\RallyProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Sorenbj\OneDrive\WEBSTUD2\CMS\Rally290316\Rally290316\RallyProject\RallyProject\bin\RallyProject.dll.config
+C:\Users\Sorenbj\OneDrive\WEBSTUD2\CMS\Rally290316\Rally290316\RallyProject\RallyProject\bin\RallyProject.dll
+C:\Users\Sorenbj\OneDrive\WEBSTUD2\CMS\Rally290316\Rally290316\RallyProject\RallyProject\bin\RallyProject.pdb
+C:\Users\Sorenbj\OneDrive\WEBSTUD2\CMS\Rally290316\Rally290316\RallyProject\RallyProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sorenbj\OneDrive\WEBSTUD2\CMS\Rally290316\Rally290316\RallyProject\RallyProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sorenbj\OneDrive\WEBSTUD2\CMS\Rally290316\Rally290316\RallyProject\RallyProject\obj\Debug\RallyProject.csprojResolveAssemblyReference.cache
+C:\Users\Sorenbj\OneDrive\WEBSTUD2\CMS\Rally290316\Rally290316\RallyProject\RallyProject\obj\Debug\RallyProject.dll
+C:\Users\Sorenbj\OneDrive\WEBSTUD2\CMS\Rally290316\Rally290316\RallyProject\RallyProject\obj\Debug\RallyProject.pdb
+C:\Users\soren\OneDrive\WEBSTUD2\CMS\Rally290316\Rally290316\RallyProject\RallyProject\bin\roslyn\csc.exe
+C:\Users\soren\OneDrive\WEBSTUD2\CMS\Rally290316\Rally290316\RallyProject\RallyProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\soren\OneDrive\WEBSTUD2\CMS\Rally290316\Rally290316\RallyProject\RallyProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\soren\OneDrive\WEBSTUD2\CMS\Rally290316\Rally290316\RallyProject\RallyProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\soren\OneDrive\WEBSTUD2\CMS\Rally290316\Rally290316\RallyProject\RallyProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\soren\OneDrive\WEBSTUD2\CMS\Rally290316\Rally290316\RallyProject\RallyProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\soren\OneDrive\WEBSTUD2\CMS\Rally290316\Rally290316\RallyProject\RallyProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\soren\OneDrive\WEBSTUD2\CMS\Rally290316\Rally290316\RallyProject\RallyProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\soren\OneDrive\WEBSTUD2\CMS\Rally290316\Rally290316\RallyProject\RallyProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\soren\OneDrive\WEBSTUD2\CMS\Rally290316\Rally290316\RallyProject\RallyProject\bin\roslyn\vbc.exe
+C:\Users\soren\OneDrive\WEBSTUD2\CMS\Rally290316\Rally290316\RallyProject\RallyProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\soren\OneDrive\WEBSTUD2\CMS\Rally290316\Rally290316\RallyProject\RallyProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\soren\OneDrive\WEBSTUD2\CMS\Rally290316\Rally290316\RallyProject\RallyProject\bin\RallyProject.dll.config
+C:\Users\soren\OneDrive\WEBSTUD2\CMS\Rally290316\Rally290316\RallyProject\RallyProject\bin\RallyProject.dll
+C:\Users\soren\OneDrive\WEBSTUD2\CMS\Rally290316\Rally290316\RallyProject\RallyProject\bin\RallyProject.pdb
+C:\Users\soren\OneDrive\WEBSTUD2\CMS\Rally290316\Rally290316\RallyProject\RallyProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\soren\OneDrive\WEBSTUD2\CMS\Rally290316\Rally290316\RallyProject\RallyProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\soren\OneDrive\WEBSTUD2\CMS\Rally290316\Rally290316\RallyProject\RallyProject\obj\Debug\RallyProject.csprojResolveAssemblyReference.cache
+C:\Users\soren\OneDrive\WEBSTUD2\CMS\Rally290316\Rally290316\RallyProject\RallyProject\obj\Debug\RallyProject.dll
+C:\Users\soren\OneDrive\WEBSTUD2\CMS\Rally290316\Rally290316\RallyProject\RallyProject\obj\Debug\RallyProject.pdb
